@@ -1,0 +1,2 @@
+# existenceBooks
+Una librería requiere un sistema web para administrar su venta y existencia de libros. La empresa cuenta con más de 50 librerías distribuidas en la Ciudad de México. El sistema de administración de ventas será implementado para cada librería y el sistema de existencia de libros debe ser visible para todas las librerías para poder ver la disponibilidad de un libro en las diferentes sucursales. El sistema debe contar con credenciales de acceso para los empleados y roles para las diferentes tareas.
